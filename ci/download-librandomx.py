@@ -14,6 +14,7 @@ urls = [
     ['randomx-x86_64-mingw.zip', 'windows-x86_64'],
     ['randomx-x86_64-linux.tar.xz', 'linux-x86_64'],
     ['randomx-x86_64-macos.tar.xz', 'macos-x86_64'],
+    ['randomx-aarch64-linux.tar.xz', 'linux-aarch64'],
 ]
 
 try:
